@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" version="2.0">
+
+<channel>
+	<title>Tech blog</title>
+	
+	<link>http://blogs.ft.com/tech-blog</link>
+	<description>FT experts in San Francisco, London and Taipei upload their views</description>
+	<lastBuildDate>Fri, 22 Aug 2014 15:58:44 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+		<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/ft/tech-blog" /><feedburner:info xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" uri="ft/tech-blog" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+		<title>Flappy Bird’s creator swings higher</title>
+		<link>http://blogs.ft.com/tech-blog/2014/08/flappy-birds-creator-swings-higher/</link>
+		<comments>http://blogs.ft.com/tech-blog/2014/08/flappy-birds-creator-swings-higher/#comments</comments>
+		<pubDate>Fri, 22 Aug 2014 12:26:53 +0000</pubDate>
+		<dc:creator>Michael Peel</dc:creator>
+				<category><![CDATA[Digital media]]></category>
+		<category><![CDATA[Games]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[apps]]></category>
+		<category><![CDATA[Flappy Birds]]></category>
+		<category><![CDATA[free app]]></category>
+		<category><![CDATA[games app]]></category>
+		<category><![CDATA[online games]]></category>
+		<category><![CDATA[Swing Copters]]></category>
+		<category><![CDATA[twitter]]></category>
+		<category><![CDATA[Vietnam]]></category>
+
+		<guid isPermaLink="false">http://blogs.ft.com/tech-blog/?p=248891</guid>
+		<description>&lt;p&gt;If you thought flying a &lt;a href="http://blogs.ft.com/tech-blog/2014/02/game-over-flappy-bird/"&gt;Flappy Bird&lt;/a&gt; was fiendish, just wait until you try swooping Swing Copters. So say new addicts of the latest free app from cult Vietnamese developer Dong Nguyen, who this week overcame his famous revulsion at his previous creation to release what looks like another hit.&lt;/p&gt;
+&lt;p&gt;Droves of instant &lt;em&gt;Swing Copters&lt;/em&gt; devotees took to Twitter Friday to bemoan how guiding the propeller-headed hero through a landscape of deadly swinging obstacles was even closer to impossible than navigating &lt;em&gt;Flappy Bird&lt;/em&gt;’s famously exasperating arrays of&lt;a href="http://www.buzzfeed.com/mattbellassai/the-stages-of-having-your-life-completely-ruined-by-flapp"&gt; killer pipes&lt;/a&gt;.&lt;/p&gt;&lt;a href="http://blogs.ft.com/tech-blog/2014/08/flappy-birds-creator-swings-higher/" class="more-link"&gt;Continue reading: Flappy Bird’s creator swings higher&lt;/a&gt;&lt;img src="http://feeds.feedburner.com/~r/ft/tech-blog/~4/VufpxPj__Fg" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://blogs.ft.com/tech-blog/2014/08/flappy-birds-creator-swings-higher/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Rocket adds another investor ahead of IPO</title>
+		<link>http://www.ft.com/fastft?post=197561</link>
+		<comments>http://blogs.ft.com/tech-blog/2014/08/rocket-adds-another-investor-ahead-of-ipo/#comments</comments>
+		<pubDate>Fri, 22 Aug 2014 11:05:16 +0000</pubDate>
+		<dc:creator>Chris Nuttall</dc:creator>
+				<category><![CDATA[Commerce]]></category>
+		<category><![CDATA[Internet]]></category>
+		<category><![CDATA[Rocket Internet]]></category>
+
+		<guid isPermaLink="false">http://blogs.ft.com/tech-blog/?p=248841</guid>
+		<description>&lt;p&gt;&lt;span&gt;&lt;a href="http://blogs.ft.com/tech-blog/files/2014/08/rocketint.png"&gt;&lt;img class="alignleft size-medium wp-image-248861" src="http://blogs.ft.com/tech-blog/files/2014/08/rocketint-272x63.png" alt="" width="272" height="63" /&gt;&lt;/a&gt;&lt;/span&gt;Rocket Internet, the Berlin-based investor in e-commerce companies, is continuing to expand its roster of stakeholders, as its valuation grows past €4bn ahead of an expected IPO later this year.&lt;/p&gt;&lt;a href="http://blogs.ft.com/tech-blog/2014/08/rocket-adds-another-investor-ahead-of-ipo/" class="more-link"&gt;Continue reading: Rocket adds another investor ahead of IPO&lt;/a&gt;&lt;img src="http://feeds.feedburner.com/~r/ft/tech-blog/~4/tCwDN2qXHCc" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://blogs.ft.com/tech-blog/2014/08/rocket-adds-another-investor-ahead-of-ipo/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Notebooks emerge from seven-quarter slump</title>
+		<link>http://www.ft.com/fastft?post=197261</link>
+		<comments>http://blogs.ft.com/tech-blog/2014/08/notebooks-emerge-from-seven-quarter-slump/#comments</comments>
+		<pubDate>Thu, 21 Aug 2014 14:07:28 +0000</pubDate>
+		<dc:creator>Chris Nuttall</dc:creator>
+				<category><![CDATA[Computers]]></category>
+		<category><![CDATA[Lenovo]]></category>
+
+		<guid isPermaLink="false">http://blogs.ft.com/tech-blog/?p=248791</guid>
+		<description>&lt;p&gt;&lt;span&gt;&lt;a href="http://blogs.ft.com/tech-blog/files/2014/08/lenovo.png"&gt;&lt;img class="alignleft size-medium wp-image-248811" src="http://blogs.ft.com/tech-blog/files/2014/08/lenovo-272x155.png" alt="" width="272" height="155" /&gt;&lt;/a&gt;&lt;/span&gt;Lower prices and upgrades by businesses have lifted the global notebook PC market out of a seven-quarter slump.&lt;/p&gt;&lt;a href="http://blogs.ft.com/tech-blog/2014/08/notebooks-emerge-from-seven-quarter-slump/" class="more-link"&gt;Continue reading: Notebooks emerge from seven-quarter slump&lt;/a&gt;&lt;img src="http://feeds.feedburner.com/~r/ft/tech-blog/~4/k4ygA8fUQsw" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://blogs.ft.com/tech-blog/2014/08/notebooks-emerge-from-seven-quarter-slump/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Meet the Smelfie: Sony’s bid to win in the selfie wars</title>
+		<link>http://blogs.ft.com/tech-blog/2014/08/meet-the-chanel-fie-sonys-bid-to-win-in-the-selfie-wars/</link>
+		<comments>http://blogs.ft.com/tech-blog/2014/08/meet-the-chanel-fie-sonys-bid-to-win-in-the-selfie-wars/#comments</comments>
+		<pubDate>Thu, 21 Aug 2014 06:04:01 +0000</pubDate>
+		<dc:creator>Financial Times</dc:creator>
+				<category><![CDATA[Asia]]></category>
+		<category><![CDATA[Consumer Electronics]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Personal technology]]></category>
+		<category><![CDATA[Smartphones]]></category>
+		<category><![CDATA[selfies]]></category>
+		<category><![CDATA[smartphones]]></category>
+		<category><![CDATA[Sony]]></category>
+
+		<guid isPermaLink="false">http://blogs.ft.com/tech-blog/?p=248701</guid>
+		<description>&lt;p&gt;By Jonathan Soble and Lindsay Whipp&lt;/p&gt;
+&lt;p&gt;OK, so you know selfies are a thing – who doesn&amp;#8217;t? But what about encasing that selfie-taking mobile phone in a case shaped like a Chanel perfume bottle?&lt;/p&gt;
+&lt;p&gt;Meet the Smelfie (Perfume + Selfie) &amp;#8211; a thing, apparently, among women in China.  And it hasn&amp;#8217;t escaped the notice of product designers at Sony.&lt;/p&gt;&lt;a href="http://blogs.ft.com/tech-blog/2014/08/meet-the-chanel-fie-sonys-bid-to-win-in-the-selfie-wars/" class="more-link"&gt;Continue reading: Meet the Smelfie: Sony&amp;#8217;s bid to win in the selfie wars&lt;/a&gt;&lt;img src="http://feeds.feedburner.com/~r/ft/tech-blog/~4/Dg16KMfDS3Q" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://blogs.ft.com/tech-blog/2014/08/meet-the-chanel-fie-sonys-bid-to-win-in-the-selfie-wars/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Tom Lesinski launches digital production company</title>
+		<link>http://blogs.ft.com/tech-blog/2014/08/tom-lesinski-launches-digital-production-company/</link>
+		<comments>http://blogs.ft.com/tech-blog/2014/08/tom-lesinski-launches-digital-production-company/#comments</comments>
+		<pubDate>Wed, 20 Aug 2014 21:44:29 +0000</pubDate>
+		<dc:creator>Financial Times</dc:creator>
+				<category><![CDATA[Digital media]]></category>
+		<category><![CDATA[Tech]]></category>
+
+		<guid isPermaLink="false">http://blogs.ft.com/tech-blog/?p=248581</guid>
+		<description>&lt;p&gt;&lt;span&gt;&lt;a href="http://blogs.ft.com/tech-blog/files/2014/08/tom2.jpg"&gt;&lt;img class="alignleft size-medium wp-image-248591" src="http://blogs.ft.com/tech-blog/files/2014/08/tom2-272x204.jpg" alt="" width="272" height="204" /&gt;&lt;/a&gt;&lt;/span&gt;By Matthew Garrahan, FT global media editor&lt;/p&gt;
+&lt;p&gt;Thomas Lesinski, the former head of digital production at Paramount Pictures, has launched a new company to produce content for television and online channels, striking a deal with Legendary Entertainment, which will have first option to release its programming.&lt;/p&gt;&lt;a href="http://blogs.ft.com/tech-blog/2014/08/tom-lesinski-launches-digital-production-company/" class="more-link"&gt;Continue reading: Tom Lesinski launches digital production company&lt;/a&gt;&lt;img src="http://feeds.feedburner.com/~r/ft/tech-blog/~4/qexMZjtaMIU" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://blogs.ft.com/tech-blog/2014/08/tom-lesinski-launches-digital-production-company/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Amazon’s Bezos looks out for investment opportunities</title>
+		<link>http://blogs.ft.com/tech-blog/2014/08/amazons-bezos-looks-out-for-investment-opportunities/</link>
+		<comments>http://blogs.ft.com/tech-blog/2014/08/amazons-bezos-looks-out-for-investment-opportunities/#comments</comments>
+		<pubDate>Wed, 13 Aug 2014 17:15:20 +0000</pubDate>
+		<dc:creator>Hannah Kuchler</dc:creator>
+				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Amazon]]></category>
+		<category><![CDATA[investment]]></category>
+		<category><![CDATA[lookout]]></category>
+
+		<guid isPermaLink="false">http://blogs.ft.com/tech-blog/?p=248432</guid>
+		<description>&lt;p&gt;&lt;a href="http://blogs.ft.com/tech-blog/files/2011/10/jeff-bezos.jpg"&gt;&lt;img class="alignleft size-large wp-image-92906" src="http://blogs.ft.com/tech-blog/files/2011/10/jeff-bezos-391x281.jpg" alt="amazon kindle fire" width="391" height="281" /&gt;&lt;/a&gt;Amazon founder Jeff Bezos is among the new investors in &lt;a title="Lookout funding boosted by Amazon's Bezos - FT.com" href="http://www.ft.com/intl/cms/s/0/c928ec46-227d-11e4-a828-00144feabdc0.html" target="_blank"&gt;Lookout&lt;/a&gt;, a San Francisco-based mobile security company that just pulled in the largest fundraising by a cyber security company so far this year.&lt;/p&gt;
+&lt;p&gt;As Amazon promised to be &amp;#8220;relentless&amp;#8221; in its pursuit of &lt;a title="The Everything Store: Jeff Bezos and the Age of Amazon - FT.com" href="http://www.amazon.com/The-Everything-Store-Bezos-Amazon-ebook/dp/B00BWQW73E" target="_blank"&gt;selling everything&lt;/a&gt;, Bezos appears to being equally eager to make personal investments in almost every industry. Here are some &amp;#8211; but not all &amp;#8211; of the investments he has made through his vehicle &lt;a title="BezosExpeditions.com" href="http://www.bezosexpeditions.com/" target="_blank"&gt;Bezos Expeditions&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Media:&lt;/strong&gt; Bezos&amp;#8217; most high profile recent investment was his purchase of the &lt;a title="Washington Post widens access to its digital content - FT.com" href="http://www.ft.com/intl/cms/s/0/4259186e-ae90-11e3-8e41-00144feab7de.html" target="_blank"&gt;Washington Post&lt;/a&gt;, the DC-based newspaper renowned for its role in breaking the news of the Watergate scandal. But he has fingers in other media pies too: in 2013, he took a stake in &lt;a title="Lunch with the FT: Henry Blodget - FT.com" href="http://www.ft.com/intl/cms/s/2/a3de4154-4bb2-11e3-a02f-00144feabdc0.html" target="_blank"&gt;Business Insider&lt;/a&gt;, the loud mouthed financial news site fond of slideshows, and back in 2008 he invested in Twitter, the social media site beloved by journalists. He also has investments in Vessel, a video platform, and Next Door, a social network for neighbours.&lt;/p&gt;
+&lt;a href="http://blogs.ft.com/tech-blog/2014/08/amazons-bezos-looks-out-for-investment-opportunities/" class="more-link"&gt;Continue reading: Amazon&amp;#8217;s Bezos looks out for investment opportunities&lt;/a&gt;&lt;img src="http://feeds.feedburner.com/~r/ft/tech-blog/~4/EXHirEUp46c" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://blogs.ft.com/tech-blog/2014/08/amazons-bezos-looks-out-for-investment-opportunities/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mannequins that talk to your smartphone – oh, and model clothes, too</title>
+		<link>http://blogs.ft.com/tech-blog/2014/08/mannequins-that-talk-to-your-smartphone-oh-and-model-clothes-too/</link>
+		<comments>http://blogs.ft.com/tech-blog/2014/08/mannequins-that-talk-to-your-smartphone-oh-and-model-clothes-too/#comments</comments>
+		<pubDate>Wed, 13 Aug 2014 12:18:00 +0000</pubDate>
+		<dc:creator>Sally Davies</dc:creator>
+				<category><![CDATA[Tech]]></category>
+		<category><![CDATA[apple]]></category>
+		<category><![CDATA[iBeacons]]></category>
+		<category><![CDATA[privacy]]></category>
+		<category><![CDATA[retail]]></category>
+		<category><![CDATA[smartphones]]></category>
+
+		<guid isPermaLink="false">http://blogs.ft.com/tech-blog/?p=248202</guid>
+		<description>&lt;p&gt;&lt;span&gt;&lt;a href="http://blogs.ft.com/tech-blog/files/2014/08/VMSD-Iconeme2.jpg"&gt;&lt;img class="alignleft size-top-story wp-image-248222" src="http://blogs.ft.com/tech-blog/files/2014/08/VMSD-Iconeme2-167x96.jpg" alt="" width="167" height="96" /&gt;&lt;/a&gt;&lt;/span&gt;Venezuela might have the mannequins with &lt;a title="&amp;quot;Mannequins Give Shape to a Venezuelan Fantasy&amp;quot; - NYTimes" href="http://www.nytimes.com/2013/11/07/world/americas/mannequins-give-shape-to-venezuelan-fantasy.html?pagewanted=all" target="_blank"&gt;the world’s biggest breasts&lt;/a&gt;, but Britain now has the most tech-savvy models gracing its store windows and shop floors.&lt;/p&gt;
+&lt;p&gt;This week three UK retailers launched the world’s first mannequins embedded with so-called &lt;a title="&amp;quot;‘This is your coffee calling – buy me’&amp;quot; - FT.com" href="http://www.ft.com/cms/s/0/6761f83a-957a-11e3-9fd6-00144feab7de.html" target="_blank"&gt;iBeacons&lt;/a&gt; – little Bluetooth transmitters that can send alerts to smartphones in the vicinity, offering details about the clothes such as how to buy them online and where to find them in store.&lt;/p&gt;&lt;a href="http://blogs.ft.com/tech-blog/2014/08/mannequins-that-talk-to-your-smartphone-oh-and-model-clothes-too/" class="more-link"&gt;Continue reading: Mannequins that talk to your smartphone &amp;#8211; oh, and model clothes, too&lt;/a&gt;&lt;img src="http://feeds.feedburner.com/~r/ft/tech-blog/~4/Y5stvRB-QTA" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://blogs.ft.com/tech-blog/2014/08/mannequins-that-talk-to-your-smartphone-oh-and-model-clothes-too/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Uber and Lyft challenge public transport with carpooling</title>
+		<link>http://blogs.ft.com/tech-blog/2014/08/uber-lyft-carpooling/</link>
+		<comments>http://blogs.ft.com/tech-blog/2014/08/uber-lyft-carpooling/#comments</comments>
+		<pubDate>Thu, 07 Aug 2014 01:03:06 +0000</pubDate>
+		<dc:creator>Tim Bradshaw</dc:creator>
+				<category><![CDATA[Commerce]]></category>
+		<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[carpooling]]></category>
+		<category><![CDATA[lyft]]></category>
+		<category><![CDATA[ride-sharing]]></category>
+		<category><![CDATA[sharing economy]]></category>
+		<category><![CDATA[sidecar]]></category>
+		<category><![CDATA[uber]]></category>
+
+		<guid isPermaLink="false">http://blogs.ft.com/tech-blog/?p=248102</guid>
+		<description>&lt;p&gt;&lt;span&gt;&lt;a href="http://blogs.ft.com/tech-blog/files/2014/08/lyft-line.png"&gt;&lt;img class="alignleft size-medium wp-image-248122" src="http://blogs.ft.com/tech-blog/files/2014/08/lyft-line-272x184.png" alt="" width="272" height="184" /&gt;&lt;/a&gt;&lt;/span&gt;The start-ups that took on the taxi industry are eyeing a new target: public transport.&lt;/p&gt;
+&lt;p&gt;The past 24 hours have seen Uber, Lyft and Sidecar all &lt;a title="Techmeme headlines on Lyft's new shared ride service" href="http://www.techmeme.com/140806/p20#a140806p20" target="_blank"&gt;launch&lt;/a&gt; a new twist on their popular ride-sharing model: carpooling. The three San Francisco companies are letting some customers opt to share a ride with a perfect stranger going along the same route at the same time, for up to half the price of a solo journey. &lt;/p&gt;&lt;a href="http://blogs.ft.com/tech-blog/2014/08/uber-lyft-carpooling/" class="more-link"&gt;Continue reading: Uber and Lyft challenge public transport with carpooling&lt;/a&gt;&lt;img src="http://feeds.feedburner.com/~r/ft/tech-blog/~4/NgUgph6zbiE" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://blogs.ft.com/tech-blog/2014/08/uber-lyft-carpooling/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Xiaomi’s rise in China continues</title>
+		<link>http://blogs.ft.com/tech-blog/2014/08/xiaomis-rise-in-china-continues/</link>
+		<comments>http://blogs.ft.com/tech-blog/2014/08/xiaomis-rise-in-china-continues/#comments</comments>
+		<pubDate>Tue, 05 Aug 2014 14:55:57 +0000</pubDate>
+		<dc:creator>Financial Times</dc:creator>
+				<category><![CDATA[Mobile]]></category>
+		<category><![CDATA[China]]></category>
+		<category><![CDATA[smartphone]]></category>
+		<category><![CDATA[Xiaomi]]></category>
+
+		<guid isPermaLink="false">http://blogs.ft.com/tech-blog/?p=248052</guid>
+		<description>&lt;p&gt;&lt;span&gt;&lt;a href="http://blogs.ft.com/tech-blog/files/2014/08/Mi4.png"&gt;&lt;img class="alignleft size-top-story wp-image-248062" src="http://blogs.ft.com/tech-blog/files/2014/08/Mi4-167x96.png" alt="" width="167" height="96" /&gt;&lt;/a&gt;&lt;/span&gt;Just four years old, Chinese smartphone maker Xiaomi has shot up sales rankings to become the top smartphone seller in China, the world&amp;#8217;s largest smartphone market, according to data by Canalys, the technology research company.&lt;/p&gt;
+&lt;p&gt;In a report released this week the company said Xiaomi&amp;#8217;s shipments in China grew 240 percent year on year, to 15.1m in the second quarter, &lt;em&gt;write Charles Clover.&lt;/em&gt;&lt;/p&gt;&lt;a href="http://blogs.ft.com/tech-blog/2014/08/xiaomis-rise-in-china-continues/" class="more-link"&gt;Continue reading: Xiaomi&amp;#8217;s rise in China continues&lt;/a&gt;&lt;img src="http://feeds.feedburner.com/~r/ft/tech-blog/~4/opGBN62xduc" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://blogs.ft.com/tech-blog/2014/08/xiaomis-rise-in-china-continues/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Xbox One gets Chinese launch date</title>
+		<link>http://www.ft.com/fastft?post=188322</link>
+		<comments>http://blogs.ft.com/tech-blog/2014/07/xbox-one-gets-chinese-launch-date/#comments</comments>
+		<pubDate>Wed, 30 Jul 2014 11:40:24 +0000</pubDate>
+		<dc:creator>Chris Nuttall</dc:creator>
+				<category><![CDATA[Games]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[Xbox]]></category>
+
+		<guid isPermaLink="false">http://blogs.ft.com/tech-blog/?p=247982</guid>
+		<description>&lt;p&gt;&lt;span&gt;&lt;a href="http://blogs.ft.com/tech-blog/files/2014/07/Fan-Photo_620.jpg"&gt;&lt;img class="alignleft size-medium wp-image-248002" src="http://blogs.ft.com/tech-blog/files/2014/07/Fan-Photo_620-272x181.jpg" alt="" width="272" height="181" /&gt;&lt;/a&gt;&lt;/span&gt;This is the launch of the century in Chinese video gaming terms.&lt;/p&gt;&lt;a href="http://blogs.ft.com/tech-blog/2014/07/xbox-one-gets-chinese-launch-date/" class="more-link"&gt;Continue reading: Xbox One gets Chinese launch date&lt;/a&gt;&lt;img src="http://feeds.feedburner.com/~r/ft/tech-blog/~4/hQSregeaWO8" height="1" width="1"/&gt;</description>
+		<wfw:commentRss>http://blogs.ft.com/tech-blog/2014/07/xbox-one-gets-chinese-launch-date/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
