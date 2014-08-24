@@ -19,7 +19,7 @@ node index.js
 curl https://offline-news-api.herokuapp.com/stories
 ```
 
-### GET /stories/:id - get a specific news stories by its identifier
+### GET /stories/:guid - get a specific news stories by its guid
 
 ```
 curl https://offline-news-api.herokuapp.com/stories/http://blogs.ft.com/tech-blog/?p=248891
