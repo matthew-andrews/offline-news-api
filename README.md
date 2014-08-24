@@ -1,4 +1,4 @@
-# offline-todo-api
+# offline-news-api
 
 Simple RESTful API that allows you to get news either item by item or as an array of items.
 
