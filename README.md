@@ -13,15 +13,15 @@ node index.js
 
 ## Documentation
 
-### GET /stories - get all news stories
+### GET /stories
 
-Returns an array of stories ([see **GET /stories/:guid** for documentation on story objects](./#get-storiesguid---get-a-specific-news-stories-by-its-guid))
+Returns an array of stories ([see **GET /stories/:guid** for documentation on story objects](#get-storiesguid---get-a-specific-news-stories-by-its-guid))
 
 ```
 curl https://offline-news-api.herokuapp.com/stories
 ```
 
-### GET /stories/:guid - get a specific news stories by its guid
+### GET /stories/:guid
 
 Returns a story object with given guid.
 
