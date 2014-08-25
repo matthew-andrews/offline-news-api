@@ -5,8 +5,8 @@ var request = require('supertest');
 var stories = require('../lib/stories');
 
 // Scaffolding and mocking
-var mockStory1 = { title: 'Mock Story 1', guid: 'a-guid' };
-var mockStory2 = { title: 'Mock Story 2', guid: 'another-guid' };
+var mockStory1 = { title: 'Mock Story 1', guid: 'http://blogs.ft.com/tech-blog/?p=248891' };
+var mockStory2 = { title: 'Mock Story 2', guid: 'http://blogs.ft.com/tech-blog/?p=248890' };
 var mockSource = {
   get: function(guid) {
     if (guid) return mockStory1;
@@ -28,7 +28,7 @@ describe('api returns with mocked data', function() {
 
   it('GET /stories/:id responds with correct JSON object', function(done) {
     request(app)
-      .get('/stories/a-guid')
+      .get('/stories/http://blogs.ft.com/tech-blog/?p=248891')
       .expect(200, mockStory1, done);
   });
 });
