@@ -15,7 +15,7 @@ node index.js
 
 ### GET /stories
 
-Returns an array of stories ([see **GET /stories/:guid** for documentation on story objects](#get-storiesguid---get-a-specific-news-stories-by-its-guid))
+Returns an array of stories ([see **GET /stories/:guid** for documentation on story objects](#get-storiesguid))
 
 ```
 curl https://offline-news-api.herokuapp.com/stories
