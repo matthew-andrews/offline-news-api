@@ -7,7 +7,8 @@
     "test": "test"
   },
   "scripts": {
-    "test": "jshint index.js lib/*.js test/*.js && mocha"
+    "test": "jshint index.js lib/*.js test/*.js && mocha",
+    "local-rss-server": "static --port 8081 test"
   },
   "repository": {
     "type": "git",
