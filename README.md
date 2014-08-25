@@ -15,12 +15,23 @@ node index.js
 
 ### GET /stories - get all news stories
 
+Returns an array of stories ([see **GET /stories/:guid** for documentation on story objects](./#get-storiesguid---get-a-specific-news-stories-by-its-guid))
+
 ```
 curl https://offline-news-api.herokuapp.com/stories
 ```
 
 ### GET /stories/:guid - get a specific news stories by its guid
 
+Returns a story object with given guid.
+
 ```
 curl https://offline-news-api.herokuapp.com/stories/http://blogs.ft.com/tech-blog/?p=248891
 ```
+
+Property | Type      | Description
+-------- | --------- | -----------------------------
+guid     | string    | Unique identifier, also a URL
+title    | string    | Title, possibly the headline
+body     | string    | Story body
+date     | timestamp | Publish date 
