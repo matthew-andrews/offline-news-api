@@ -4,7 +4,7 @@ var stories = require('./lib/stories');
 var rssSource = require('./lib/rss-source');
 var port = Number(process.env.PORT || 3000);
 var feedUrl = process.argv.indexOf('--local') !== -1
-  ? 'http://localhost:8080/err-sample-rss.xml'
+  ? 'http://localhost:8080/sample-rss.xml'
   : 'http://feeds2.feedburner.com/ft/tech-blog';
 
 express()
