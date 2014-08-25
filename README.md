@@ -32,6 +32,7 @@ curl https://offline-news-api.herokuapp.com/stories/http://blogs.ft.com/tech-blo
 Property | Type      | Description
 -------- | --------- | -----------------------------
 guid     | string    | Unique identifier, also a URL
-title    | string    | Title, possibly the headline
+author   | string    | Author of the story
+title    | string    | Title, usually the headline
 body     | string    | Story body
 date     | timestamp | Publish date 

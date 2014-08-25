@@ -5,22 +5,30 @@ var request = require('supertest');
 var stories = require('../lib/stories');
 
 // Scaffolding and mocking
+var mockStory1 = { title: 'Mock Story 1', guid: 'a-guid' };
+var mockStory2 = { title: 'Mock Story 2', guid: 'another-guid' };
+var mockSource = {
+  get: function(guid) {
+    if (guid) return mockStory1;
+    return [mockStory1, mockStory2];
+  }
+};
 var express = require('express');
 var app = express();
-app.use('/stories', stories());
+app.use('/stories', stories(mockSource));
 
-describe('api returns the correct types', function() {
-  it('GET /stories responds with a JSON array', function(done) {
+describe('api returns with mocked data', function() {
+  it('GET /stories responds with correct JSON array', function(done) {
     request(app)
       .get('/stories')
       .set('Accept', 'application/json')
       .expect('Content-Type', /json/)
-      .expect(200, [], done);
+      .expect(200, [mockStory1, mockStory2], done);
   });
 
-  it('GET /stories/:id responds with a JSON object', function(done) {
+  it('GET /stories/:id responds with correct JSON object', function(done) {
     request(app)
-      .get('/stories/any-guid')
-      .expect(200, {}, done);
+      .get('/stories/a-guid')
+      .expect(200, mockStory1, done);
   });
 });
