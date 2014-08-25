@@ -8,5 +8,5 @@ deploy:
     secure: dWLLSzJcFqUS+qoF4j1ISLxxvmblsEJAEmR+VkdETM/DiWhqmrEuTV4o/LRPUGtaaVJbqPplMJ/UjRZQjb2zZ5YtO7+4dhAA7qjY4voBillTyzi1V9ZyxiMjobNAOiOD86Ti8Ad8rHG+ynzeyuUO1b8N2Vemf4Kzaq7/4/JyyR4=
   app: offline-news-api
   on:
-    repo: matthew-andrews/offline-todo-api
+    repo: matthew-andrews/offline-news-api
     node: '0.10'
