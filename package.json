@@ -29,7 +29,8 @@
     "cors": "^2.4.1",
     "express": "^4.8.5",
     "feedparser": "^0.19.1",
-    "superagent": "^0.18.2"
+    "superagent": "^0.18.2",
+    "parseurl": "~1.3.0"
   },
   "devDependencies": {
     "jshint": "^2.5.5",
