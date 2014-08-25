@@ -1,0 +1,29 @@
+{
+  "name": "offline-news-api",
+  "version": "0.0.0",
+  "description": "Simple RESTful API that allows you to get news either item by item or as an array of items.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jshint index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/matthew-andrews/offline-news-api.git"
+  },
+  "author": "Matt Andrews <matt@mattandre.ws>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matthew-andrews/offline-news-api/issues"
+  },
+  "homepage": "https://github.com/matthew-andrews/offline-news-api",
+  "dependencies": {
+    "cors": "^2.4.1",
+    "express": "^4.8.5"
+  },
+  "devDependencies": {
+    "jshint": "^2.5.5"
+  }
+}
