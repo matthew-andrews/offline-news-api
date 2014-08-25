@@ -18,6 +18,9 @@
   "bugs": {
     "url": "https://github.com/matthew-andrews/offline-news-api/issues"
   },
+  "bin": {
+    "offline-news-api": "./bin/offline-news-api"
+  },
   "homepage": "https://github.com/matthew-andrews/offline-news-api",
   "dependencies": {
     "array.prototype.find": "^1.0.0",
