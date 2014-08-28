@@ -7,7 +7,9 @@
     "test": "test"
   },
   "scripts": {
-    "test": "jshint index.js lib/*.js test/*.js && mocha",
+    "test": "npm run jshint && npm run lintspaces && mocha",
+    "jshint": "jshint `find . -name \"*.js\" ! -path \"./node_modules/*\"`",
+    "lintspaces": "lintspaces -n -t -d \"spaces\" -s 2 `find . -name \"*.js\" ! -path \"./node_modules/*\"`",
     "local-rss-server": "static --port 8081 test",
     "local-server": "node index.js --local"
   },
@@ -34,6 +36,7 @@
   },
   "devDependencies": {
     "jshint": "^2.5.5",
+    "lintspaces-cli": "0.0.4",
     "mocha": "^1.21.4",
     "supertest": "^0.13.0"
   }
