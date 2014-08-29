@@ -26,7 +26,7 @@ curl https://offline-news-api.herokuapp.com/stories
 Returns a story object with given guid.
 
 ```
-curl https://offline-news-api.herokuapp.com/stories/http://blogs.ft.com/tech-blog/?p=248891
+curl https://offline-news-api.herokuapp.com/stories/tech-blog/?p=249271
 ```
 
 Property | Type      | Description
