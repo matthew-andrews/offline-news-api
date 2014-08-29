@@ -8,8 +8,8 @@
   },
   "scripts": {
     "test": "npm run jshint && npm run lintspaces && mocha",
-    "jshint": "jshint `npm run js-files | tail -n +5`",
-    "lintspaces": "lintspaces -n -t -d spaces -i js-comments -s 2 `npm run js-files | tail -n +5`",
+    "jshint": "jshint `npm run -s js-files`",
+    "lintspaces": "lintspaces -n -t -d spaces -i js-comments -s 2 `npm run -s js-files`",
     "js-files": "find . -name \"*.js\" ! -path \"./node_modules/*\"",
     "local-rss-server": "static --port 8081 test",
     "local-server": "node index.js --local"
