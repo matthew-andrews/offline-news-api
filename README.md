@@ -1,4 +1,4 @@
-# offline-news-api [![Build Status](https://travis-ci.org/matthew-andrews/offline-news-api.svg?branch=master)](https://travis-ci.org/matthew-andrews/offline-news-api)
+# offline-news-api
 
 Simple RESTful API that allows you to get news either item by item or as an array of items.
 
@@ -26,7 +26,7 @@ curl https://offline-news-api.herokuapp.com/stories
 Returns a story object with given guid.
 
 ```
-curl https://offline-news-api.herokuapp.com/stories/tech-blog/?p=249271
+curl https://offline-news-api.herokuapp.com/stories/249271
 ```
 
 Property | Type      | Description
