@@ -1,4 +1,4 @@
-# offline-news-api
+# offline-news-api [ ![Codeship Status for matthew-andrews/offline-news-api](https://codeship.io/projects/89173cc0-1359-0132-6986-7e4352749945/status)](https://codeship.io/projects/33307)
 
 Simple RESTful API that allows you to get news either item by item or as an array of items.
 
