@@ -5,8 +5,8 @@ var request = require('supertest');
 var stories = require('../lib/stories');
 
 // Scaffolding and mocking
-var mockStory1 = { title: 'Mock Story 1', guid: 'tech-blog/?p=248891' };
-var mockStory2 = { title: 'Mock Story 2', guid: 'tech-blog/?p=248890' };
+var mockStory1 = { title: 'Mock Story 1', guid: '248891' };
+var mockStory2 = { title: 'Mock Story 2', guid: '248890' };
 var mockSource = {
   get: function(guid) {
     if (guid) return mockStory1;
