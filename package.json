@@ -1,6 +1,6 @@
 {
   "name": "offline-news-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple RESTful API that allows you to get news either item by item or as an array of items.",
   "main": "index.js",
   "directories": {
