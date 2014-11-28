@@ -14,7 +14,7 @@
     "local-rss-server": "static --port 8081 test # used for offline development",
     "local-server": "node index.js --local # used for offline development",
     "deploy": "haikro build deploy --app offline-news-api --heroku-token $HEROKU_AUTH_TOKEN --commit $CI_COMMIT_ID",
-    "release": "if [[ "$CI_BRANCH" =~ ^v[0-9]+\.[0-9]+\.[0-9]+$ ]]; then haikro release --repository matthew-andrews/offline-news-api --github-token $GITHUB_AUTH_TOKEN --tag $CI_BRANCH; fi"
+    "release": "if [[ \"$CI_BRANCH\" =~ ^v[0-9]+\\.[0-9]+\\.[0-9]+$ ]]; then haikro release --repository matthew-andrews/offline-news-api --github-token $GITHUB_AUTH_TOKEN --tag $CI_BRANCH; fi"
   },
   "repository": {
     "type": "git",
