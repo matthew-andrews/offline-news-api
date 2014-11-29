@@ -7,14 +7,15 @@
     "test": "test"
   },
   "scripts": {
-    "test": "npm run jshint && npm run lintspaces && mocha",
+    "deploy": "haikro build deploy --app offline-news-api --heroku-token $HEROKU_AUTH_TOKEN --commit $CI_COMMIT_ID",
     "jshint": "jshint `npm run -s js-files`",
-    "lintspaces": "lintspaces -n -t -d spaces -i js-comments -s 2 `npm run -s js-files`",
     "js-files": "find . -name '*.js' ! -path './node_modules/*'",
+    "lintspaces": "lintspaces -n -t -d spaces -i js-comments -s 2 `npm run -s js-files`",
     "local-rss-server": "static --port 8081 test # used for offline development",
     "local-server": "node index.js --local # used for offline development",
-    "deploy": "haikro build deploy --app offline-news-api --heroku-token $HEROKU_AUTH_TOKEN --commit $CI_COMMIT_ID",
-    "release": "node -e \"process.exit(/^v[0-9]+\\\\.[0-9]+\\\\.[0-9]+$/.test(String(process.env.CI_BRANCH)) ? 0 : 1);\" && haikro build release --repository matthew-andrews/offline-news-api --github-token $GITHUB_AUTH_TOKEN --tag $CI_BRANCH || echo 'skipping release'"
+    "release": "node -e \"process.exit(/^v[0-9]+\\\\.[0-9]+\\\\.[0-9]+$/.test(String(process.env.CI_BRANCH)) ? 0 : 1);\" && haikro build release --repository matthew-andrews/offline-news-api --github-token $GITHUB_AUTH_TOKEN --tag $CI_BRANCH || echo 'skipping release'",
+    "start": "node index.js",
+    "test": "npm run jshint && npm run lintspaces && mocha"
   },
   "repository": {
     "type": "git",
